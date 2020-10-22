@@ -1,10 +1,12 @@
 [
    {
       "id": "SketchwareOnline",
-      "nam": "hvgh"
+      "nam": "ردیابی",
+      "tozih": "این کانال عالی"
    },
    {
       "id": "hoolooteam",
-      "nam": "هولتیم"
+      "nam": "هولتیم",
+      "tozih": "این کانال مزخره"
    }
 ]
