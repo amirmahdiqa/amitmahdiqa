@@ -1,9 +1,10 @@
 [
    {
       "id": "SketchwareOnline",
-      "nam": "نویسی"
+      "nam": "hvgh"
    },
    {
       "id": "hoolooteam",
-      "nam": "holotem"
+      "nam": "هولتیم"
    }
+]
