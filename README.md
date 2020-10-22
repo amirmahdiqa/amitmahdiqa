@@ -5,6 +5,6 @@
    },
    {
       "id": "hoolooteam",
-      "nam": "هولوتیم"
+      "nam": "holotem"
    }
-]
+holotem
