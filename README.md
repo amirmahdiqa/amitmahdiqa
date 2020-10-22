@@ -7,4 +7,3 @@
       "id": "hoolooteam",
       "nam": "holotem"
    }
-holotem
