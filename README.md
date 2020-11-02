@@ -54,5 +54,13 @@
     "daste": "موسیقی",
     "id1": "https://rubika.ir/iranAVAiran",
     "pyam": "روبیکا"
+  },
+  {
+    "id": "IR_NEZAM",
+    "nam": "IR.NEZAM",
+    "tozih": "کانال راجب پلیس های ویژه و سپاه و ارتش جمهوری اسلامی ایران",
+    "daste": "نظامی",
+    "id1": "https://rubika.ir/IR_NEZAM",
+    "pyam": "روبیکا"
   }
 ]
