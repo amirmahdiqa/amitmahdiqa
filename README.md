@@ -78,5 +78,13 @@
     "daste": "سرگرمی",
     "id1": "https://rubika.ir/Clip_rook_mrdandon_3angin",
     "pyam": "روبیکا"
+  },
+  {
+    "id": "نداره",
+    "nam": "¥£چتکده£¥",
+    "tozih": "😂\nبچتین😛😝😎🤓\nفقط چت فقط چت\nرل ممنوع🚫🚫🚫🚫🚫🚫🚫🚫 \nغییر از حذف میشوید\nلف ندین\nلطفا ترک نکنید گروه رو باز میکنم",
+    "daste": "سرگرمی",
+    "id1": "https://chat.whatsapp.com/GbvhV6pz2W4EuphBIMbQfp",
+    "pyam": "واتساپ"
   }
 ]
