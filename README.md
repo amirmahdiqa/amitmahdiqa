@@ -52,5 +52,14 @@
     "id1": "https://chat.whatsapp.com/GbvhV6pz2W4EuphBIMbQfp",
     "pyam": "واتساپ",
     "aks": "https://uupload.ir/files/5e1x_img-20201204-wa0002.jpg"
+  },
+  {
+    "id": "نداره",
+    "nam": "❤️۲۱ روز تا تسلط بر زبان انگلیسی ۱❤️",
+    "tozih": "زبان انگلیسی را ساده تر بیاموزیم",
+    "daste": "آموزش",
+    "id1": "https://chat.whatsapp.com/Hno8cLagljwL0JzJxcomeg",
+    "pyam": "واتساپ",
+    "aks": "https://upinja.com/up2/2395540779.jpg"
   }
 ]
