@@ -61,5 +61,14 @@
     "id1": "https://chat.whatsapp.com/Hno8cLagljwL0JzJxcomeg",
     "pyam": "واتساپ",
     "aks": "https://upinja.com/up2/2395540779.jpg"
+  },
+  {
+    "id": "fjdgcfgxz",
+    "nam": "جزیره ی چالش",
+    "tozih": "",
+    "daste": "چالش",
+    "id1": "https://rubika.ir/fjdgcfgxz",
+    "pyam": "روبیکا",
+    "aks": "https://uupload.ir/files/yjcr_2435120451.jpg"
   }
 ]
