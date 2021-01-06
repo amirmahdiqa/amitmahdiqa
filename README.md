@@ -51,7 +51,7 @@
     "daste": "آموزش",
     "id1": "https://chat.whatsapp.com/Hno8cLagljwL0JzJxcomeg",
     "pyam": "واتساپ",
-    "aks": "https://upinja.com/up2/2395540779.jpg"
+    "aks": "https://markaztebeslami.ir/img/p/fa-default-large_default.jpg"
   },
   {
     "id": "fjdgcfgxz",
