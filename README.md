@@ -70,5 +70,14 @@
     "id1": "https://rubika.ir/aslaimparaket",
     "pyam": "روبیکا",
     "aks": "https://www.uplooder.net/img/image/88/14585c15a7dad9fa1df64b517a3cddb8/2466574980.jpg"
+  },
+  {
+    "id": "نداره",
+    "nam": "♡GـIـRـLـTـRـIـCـKـS♡",
+    "tozih": "تــو ایــنــ چــنــــلــ هــمــعـ چــی هــ هــمــ جــوک هـم پـروفـ هـمـ دانـسـتـنـیــ و چــالــشـ",
+    "daste": "سرگرمی",
+    "id1": "https://chat.whatsapp.com/IWpLOdOBHnuFqOjh3bFpfa",
+    "pyam": "واتساپ",
+    "aks": "https://www.uplooder.net/img/image/28/008f2932c5e4a7278ec0d4fabee8ae28/2504077600.jpg "
   }
 ]
