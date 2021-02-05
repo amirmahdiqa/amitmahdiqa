@@ -45,15 +45,6 @@
     "aks": "https://markaztebeslami.ir/img/p/fa-default-large_default.jpg"
   },
   {
-    "id": "fjdgcfgxz",
-    "nam": "جزیره ی چالش",
-    "tozih": "",
-    "daste": "چالش",
-    "id1": "https://rubika.ir/fjdgcfgxz",
-    "pyam": "روبیکا",
-    "aks": "https://uupload.ir/files/yjcr_2435120451.jpg"
-  },
-  {
     "id": "wsxzaqed",
     "nam": "سریال کره ای دوبله فارسی",
     "tozih": "تابع قوانین روبیکا",
