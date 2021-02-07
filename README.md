@@ -54,15 +54,6 @@
     "aks": "https://www.uplooder.net/img/image/62/efd8cb52605e296fa87acfaf96fe6e69/2720030703.jpg "
   },
   {
-    "id": "ANIMATIOONN",
-    "nam": "انیمیشن",
-    "tozih": "دانلود انیمیشن های بروز دنیا",
-    "daste": "انیمیشن",
-    "id1": "https://eitaa.com/ANIMATIOONN",
-    "pyam": "ایتا",
-    "aks": "https://www.uplooder.net/img/image/93/f53ee0d1070e1d719b6f5ed5b50254db/2735816209.jpg "
-  },
-  {
     "id": "kasb_dar_amad_enterneti",
     "nam": "کسب درآمد اینترنتی",
     "tozih": "کانال کسب درآمد اینترنتی در پیام‌رسان روبیکا با کلی راه های کسب درآمد اینترنتی و قانونی",
