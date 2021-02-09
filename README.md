@@ -79,5 +79,23 @@
     "id1": "https://eitaa.com/arazsoba",
     "pyam": "ایتا",
     "aks": "https://8pic.ir/uploads/2764728796.jpg"
+  },
+  {
+    "id": "نداره چون شخصی",
+    "nam": "لینک دونی آبی",
+    "tozih": "لینک دونی آبی ثبت بنر کانال به طور رایگان عضو شو",
+    "daste": "تبلیغات",
+    "id1": "https://rubika.ir/joinc/HDEGAJF0PLQFYFCPRUEORDDVWMKCWNGP",
+    "pyam": "روبیکا",
+    "aks": "https://8pic.ir/uploads/2787645591.jpg"
+  },
+  {
+    "id": "ksbprae456",
+    "nam": "کسب درآمد از 7030",
+    "tozih": "یک کانال کسب درآمد \nاگه یه شغل دوم میخوای عضو شو",
+    "daste": "کسب کار",
+    "id1": "https://rubika.ir/ksbprae456",
+    "pyam": "روبیکا",
+    "aks": "https://markaztebeslami.ir/img/p/fa-default-large_default.jpg"
   }
 ]
