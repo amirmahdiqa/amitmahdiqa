@@ -97,5 +97,14 @@
     "id1": "https://rubika.ir/ksbprae456",
     "pyam": "روبیکا",
     "aks": "https://markaztebeslami.ir/img/p/fa-default-large_default.jpg"
+  },
+  {
+    "id": "نداره چون شخصی",
+    "nam": "⚡موزیک☠️کـــلیپ کــده⚡",
+    "tozih": "دانلود رایگان آهنگ با کیفیت عالی کلیپ های خفن و ناب رایگان اینستاگرام",
+    "daste": "موزیک و کلیپ",
+    "id1": "https://rubika.ir/joinc/HCAICBD0VMMIVDORLXJKJFNMYTDHEWWD",
+    "pyam": "روبیکا",
+    "aks": "https://8pic.ir/uploads/2793358691.jpg"
   }
 ]
