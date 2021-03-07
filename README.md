@@ -106,5 +106,14 @@
     "id1": "https://rubika.ir/bevagtehdel",
     "pyam": "روبیکا",
     "aks": "https://8pic.ir/uploads/2809079515.jpg"
+  },
+  {
+    "id": "asmaelpopo",
+    "nam": "لینک دونی / رایگان",
+    "tozih": "در این کانال کانال و گروهت رو رایگان تبلیغ کن",
+    "daste": "تبلیغات",
+    "id1": "https://rubika.ir/asmaelpopo",
+    "pyam": "روبیکا",
+    "aks": "https://8pic.ir/uploads/2950584260.jpg "
   }
 ]
