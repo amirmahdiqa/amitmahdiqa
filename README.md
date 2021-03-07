@@ -114,6 +114,6 @@
     "daste": "تبلیغات",
     "id1": "https://rubika.ir/asmaelpopo",
     "pyam": "روبیکا",
-    "aks": "https://8pic.ir/uploads/2950584260.jpg "
+    "aks": "https://8pic.ir/uploads/2950584260.jpg"
   }
 ]
