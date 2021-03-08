@@ -123,6 +123,6 @@
     "daste": "جایزع و برنامه",
     "id1": "https://rubika.ir/vjninnkokkh",
     "pyam": "روبیکا",
-    "aks": "https://8pic.ir/uploads/2903999080_3bcbc.jpg "
+    "aks": "https://8pic.ir/uploads/2903999080_3bcbc.jpg"
   }
 ]
