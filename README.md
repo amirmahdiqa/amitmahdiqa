@@ -36,15 +36,6 @@
     "aks": "https://markaztebeslami.ir/img/p/fa-default-large_default.jpg"
   },
   {
-    "id": "wsxzaqed",
-    "nam": "سریال کره ای دوبله فارسی",
-    "tozih": "تابع قوانین روبیکا",
-    "daste": "فیلم",
-    "id1": "https://rubika.ir/wsxzaqed",
-    "pyam": "روبیکا",
-    "aks": "https://www.uplooder.net/img/image/62/efd8cb52605e296fa87acfaf96fe6e69/2720030703.jpg "
-  },
-  {
     "id": "kasb_dar_amad_enterneti",
     "nam": "کسب درآمد اینترنتی",
     "tozih": "کانال کسب درآمد اینترنتی در پیام‌رسان روبیکا با کلی راه های کسب درآمد اینترنتی و قانونی",
